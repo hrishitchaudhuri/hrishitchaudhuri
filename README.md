@@ -1,11 +1,8 @@
-## all my other usernames are 'hrisc'.
-  
-  
+# Hrishit Chaudhuri  
   
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-  
-  i'm a theoretical CS nerd. hmu if you have cool automata stuff. i also entertain discourse on who might win the nobel prize in literature (hint: i promise you it's not murakami).
+  I like working with theoretical computer science and discrete mathematics to design systems. Interests include complexity theory, programming languages, compilers, parallel computing, and numerical computing.
   
   
 #### Cool Links
