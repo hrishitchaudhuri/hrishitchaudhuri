@@ -1,3 +1,3 @@
-# Hrishit Chaudhuri  
+# hrishit chaudhuri  
 
-  I like working with theoretical computer science and discrete mathematics to design systems. Interests include complexity theory, programming languages, compilers, parallel computing, and numerical computing. 
+  i like working with theoretical computer science and discrete mathematics to design systems. complexity theory, programming languages, compilers, parallel computing, and numerical computing. 
